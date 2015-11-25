@@ -1,3 +1,5 @@
+<head>
+
 @exclude http://a.ligatus.com/*
 @exclude http://trk.helios.ligatus.com/*
 @exclude http://a248.e.akamai.net/*
@@ -40,3 +42,5 @@
 @exclude https://track.webgains.com/*
 @exclude https://www.palmers.at/*
 @exclude https://x.bidswitch.net/*
+
+</head>
